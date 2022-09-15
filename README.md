@@ -6,4 +6,4 @@ Coursework for Caltech CS 2 - Introduction to Programming Methods (WI 2019-20)
 *Per Caltech Honor Code, do not view/download these files if you plan to take (or are currently taking) this course.*
 
 ## Authors and Acknowledgement
-I (Kyle) am the sole contributor to this project.
+I (Kyle) and Dallas Taylor (labs and group projects) are the contributors to this project.
