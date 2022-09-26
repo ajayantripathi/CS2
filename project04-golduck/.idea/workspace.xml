@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef739733-a82a-41f9-936d-0408cf0a0a81" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1Ux9720xsX4jTI9Qbj1lgL84yNw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/openjdk-11.jdk/Contents/Home/lib/src.zip!/jdk.httpserver/com/sun/net/httpserver/HttpExchange.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548914405399" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="edu.caltech.cs2.project04" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="edu.caltech.cs2.datastructures" />
+      <recent name="edu.caltech.cs2.interfaces" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.caltech.cs2" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.D Tests">
+    <configuration name="Movie Autocomplete" type="Application" factoryName="Application">
+      <output_file path="$USER_HOME$/Downloads/randomoutput.log" is_save="true" />
+      <option name="MAIN_CLASS_NAME" value="edu.caltech.cs2.project04.Main" />
+      <module name="project04-autocomplete" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A Tests" type="JUnit" factoryName="JUnit">
+      <module name="project04-autocomplete" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B Tests" type="JUnit" factoryName="JUnit">
+      <module name="project04-autocomplete" />
+      <option name="MAIN_CLASS_NAME" value="B" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="C" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D Tests" type="JUnit" factoryName="JUnit">
+      <module name="project04-autocomplete" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <tag value="D" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Movie Autocomplete" />
+      <item itemvalue="JUnit.A Tests" />
+      <item itemvalue="JUnit.B Tests" />
+      <item itemvalue="JUnit.C Tests" />
+      <item itemvalue="JUnit.D Tests" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef739733-a82a-41f9-936d-0408cf0a0a81" name="Default Changelist" comment="" />
+      <created>1543795217759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543795217759</updated>
+      <workItem from="1543795220613" duration="5624000" />
+    </task>
+    <task id="LOCAL-00001" summary="Initial file commit">
+      <created>1576490164558</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576490164558</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Implementing basic IDictionary Tests">
+      <created>1576613342881</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576613342881</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Replaced unit tests with in progress sanity/stress tests">
+      <created>1576664027300</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576664027300</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added stress tests">
+      <created>1576796537828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576796537828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Stress tests for ITrieMap complete">
+      <created>1576821533637</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1576821533637</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed class organization issue with objects not necessarily being iterables. Moved data generation to ITrieMapTests.">
+      <created>1576833413862</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576833413862</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Debugging tests">
+      <created>1576839646802</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1576839646802</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ITrieMap sanity tests">
+      <created>1576875676353</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576875676353</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Finished base tests">
+      <created>1576877448850</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1576877448850</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Test formatting and organization">
+      <created>1576878235631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1576878235631</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added test ordering">
+      <created>1576878639614</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1576878639614</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Basic cleanup">
+      <created>1576878967965</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1576878967965</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fix regex for import restrictions">
+      <created>1579904759359</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1579904759359</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Change tests slightly">
+      <created>1580195216185</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1580195216185</updated>
+    </task>
+    <task id="LOCAL-00015" summary="D tests passed">
+      <created>1580534545816</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1580534545816</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Sanity test driving me insane">
+      <created>1580542776917</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1580542776917</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Sanity test driving me insane">
+      <created>1580709402429</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1580709402429</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Complete being weird">
+      <created>1580721600214</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1580721600214</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Complete being weird">
+      <created>1580722273437</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1580722273437</updated>
+    </task>
+    <task id="LOCAL-00020" summary="B tests done">
+      <created>1580725179821</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1580725179821</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5624000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial file commit" />
+    <MESSAGE value="Implementing basic IDictionary Tests" />
+    <MESSAGE value="Replaced unit tests with in progress sanity/stress tests" />
+    <MESSAGE value="Added stress tests" />
+    <MESSAGE value="Stress tests for ITrieMap complete" />
+    <MESSAGE value="Fixed class organization issue with objects not necessarily being iterables. Moved data generation to ITrieMapTests." />
+    <MESSAGE value="Debugging tests" />
+    <MESSAGE value="ITrieMap sanity tests" />
+    <MESSAGE value="Finished base tests" />
+    <MESSAGE value="Test formatting and organization" />
+    <MESSAGE value="Added test ordering" />
+    <MESSAGE value="Basic cleanup" />
+    <MESSAGE value="Fix regex for import restrictions" />
+    <MESSAGE value="Change tests slightly" />
+    <MESSAGE value="D tests passed" />
+    <MESSAGE value="Sanity test driving me insane" />
+    <MESSAGE value="Complete being weird" />
+    <MESSAGE value="B tests done" />
+    <option name="LAST_COMMIT_MESSAGE" value="B tests done" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1011" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589937700638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1011" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589937700638" />
+  </component>
+</project>

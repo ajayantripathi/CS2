@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="565d381a-53db-4c7e-9f71-6350a8bcec73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="1XK347YIxKapXIO24KVytvTC4y5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\project05-kmcgraw" />
+      <recent name="C:\Users\User\IdeaProjects\project05-kmcgraw\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.caltech.cs2.datastructures" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\project05-kmcgraw\src\edu\caltech\cs2" />
+      <recent name="C:\Users\ethan\Documents\devel\project05\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.A+ Tests">
+    <configuration name="A Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="A" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A+ Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="A+" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="B Tests" type="JUnit" factoryName="JUnit">
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="tags" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <tag value="B" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.A Tests" />
+      <item itemvalue="JUnit.A+ Tests" />
+      <item itemvalue="JUnit.B Tests" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="565d381a-53db-4c7e-9f71-6350a8bcec73" name="Default Changelist" comment="" />
+      <created>1580780764689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580780764689</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add test configs and external libraries">
+      <created>1580780859699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580780859699</updated>
+    </task>
+    <task id="LOCAL-00002" summary="B done">
+      <created>1581294282457</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581294282457</updated>
+    </task>
+    <task id="LOCAL-00003" summary="B done">
+      <created>1581327235308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581327235308</updated>
+    </task>
+    <task id="LOCAL-00004" summary="A+ too complex">
+      <created>1581399718189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581399718189</updated>
+    </task>
+    <task id="LOCAL-00005" summary="A+ still too complex">
+      <created>1581400658261</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581400658261</updated>
+    </task>
+    <task id="LOCAL-00006" summary="A+ still too complex">
+      <created>1581402711041</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581402711041</updated>
+    </task>
+    <task id="LOCAL-00007" summary="A+ still too complex">
+      <created>1581404991078</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1581404991078</updated>
+    </task>
+    <task id="LOCAL-00008" summary="A+ still too complex">
+      <created>1581407049263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1581407049263</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add test configs and external libraries" />
+    <MESSAGE value="B done" />
+    <MESSAGE value="A+ too complex" />
+    <MESSAGE value="A+ still too complex" />
+    <option name="LAST_COMMIT_MESSAGE" value="A+ still too complex" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="160" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581716602290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="160" y="260" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581716602290" />
+    <state x="551" y="22" key="CommitChangelistDialog2" timestamp="1581407048808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="551" y="22" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581407048808" />
+    <state width="909" height="278" key="GridCell.Tab.0.bottom" timestamp="1581462909608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="278" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581462909608" />
+    <state width="909" height="278" key="GridCell.Tab.0.center" timestamp="1581462909608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="278" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581462909608" />
+    <state width="909" height="278" key="GridCell.Tab.0.left" timestamp="1581462909608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="278" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581462909608" />
+    <state width="909" height="278" key="GridCell.Tab.0.right" timestamp="1581462909608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="909" height="278" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581462909608" />
+    <state x="464" y="192" key="Vcs.Push.Dialog.v2" timestamp="1581407051499">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="192" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581407051499" />
+    <state x="739" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589937689298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="418" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589937689298" />
+    <state x="136" y="244" key="run.anything.popup" timestamp="1581373547754">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="136" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581373547754" />
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1581325662740">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="143" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581325662740" />
+  </component>
+</project>
